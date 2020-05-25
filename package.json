@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/base16",
-	"version": "3.1.20",
+	"version": "3.1.21",
 	"description": "ctx-core base16",
 	"type": "module",
 	"main": "lib.js",
