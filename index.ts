@@ -1,1 +1,1 @@
-export * from './lib'
+export * from './base16_random'
