@@ -1,32 +1,32 @@
 {
-	"name": "@ctx-core/base16",
-	"version": "4.0.0",
-	"description": "ctx-core base16",
-	"keywords": [
-		"ctx-core",
-		"base16"
-	],
-	"homepage": "https://github.com/ctx-core/base16#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/base16/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/base16.git"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run compile",
-		"exec": "$@"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.3"
-	},
-	"publishConfig": {
-		"access": "public"
-	}
+  "name": "@ctx-core/base16",
+  "version": "4.0.1",
+  "description": "ctx-core base16",
+  "keywords": [
+    "ctx-core",
+    "base16"
+  ],
+  "homepage": "https://github.com/ctx-core/base16#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/base16/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/base16.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run compile",
+    "exec": "$@"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
