@@ -10,4 +10,6 @@ export function base16_random(length = 5) {
 	}
 	return value_a1.join('')
 }
-export const random__base16 = base16_random
+export {
+	base16_random as random__base16
+}
