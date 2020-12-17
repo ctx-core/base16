@@ -1,5 +1,11 @@
 # @ctx-core/base16
 
+## 4.0.5
+
+### Patch Changes
+
+- using export as instead of export const
+
 ## 4.0.4
 
 ### Patch Changes
