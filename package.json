@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/base16",
-	"version": "5.0.5",
+	"version": "5.0.6",
 	"description": "ctx-core base16",
 	"keywords": [
 		"ctx-core",
@@ -27,6 +27,7 @@
 		"typescript": "^4.2.3"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"cache": "~/.npm"
 	}
 }
