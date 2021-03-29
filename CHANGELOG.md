@@ -1,5 +1,11 @@
 # @ctx-core/base16
 
+## 5.0.7
+
+### Patch Changes
+
+- version bump
+
 ## 5.0.6
 
 ### Patch Changes
