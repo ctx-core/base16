@@ -1,5 +1,11 @@
 # @ctx-core/base16
 
+## 5.1.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+
 ## 5.1.0
 
 ### Minor Changes
