@@ -1,5 +1,11 @@
 # @ctx-core/base16
 
+## 6.0.4
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 6.0.3
 
 ### Patch Changes
