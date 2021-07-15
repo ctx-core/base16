@@ -1,1 +1,1 @@
-export * from './base16_random'
+export * from './base16_random.js'
