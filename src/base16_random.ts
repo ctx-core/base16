@@ -1,4 +1,4 @@
-export function base16_random(length = 5) {
+export function base16_random(length = 5):string {
 	const value_a:string[] = []
 	const possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
 	const length__possible = possible.length
