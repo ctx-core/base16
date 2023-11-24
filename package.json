@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/base16",
-	"version": "7.2.24",
+	"version": "7.2.25",
 	"description": "ctx-core base16",
 	"keywords": [
 		"ctx-core",
@@ -42,7 +42,7 @@
 		"@arethetypeswrong/cli": "^0.13.1",
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^4.3.0",
+		"tsx": "^4.4.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
