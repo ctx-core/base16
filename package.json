@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/base16",
-	"version": "7.2.25",
+	"version": "7.2.26",
 	"description": "ctx-core base16",
 	"keywords": [
 		"ctx-core",
@@ -36,13 +36,13 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"ctx-core": "^4.4.0"
+		"ctx-core": "^4.5.0"
 	},
 	"devDependencies": {
-		"@arethetypeswrong/cli": "^0.13.1",
+		"@arethetypeswrong/cli": "^0.13.2",
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^4.4.0",
+		"tsx": "^4.5.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
