@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/base16",
-	"version": "7.2.67",
+	"version": "7.2.68",
 	"description": "ctx-core base16",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.5.0"
+		"ctx-core": "^5.6.1"
 	},
 	"devDependencies": {
 		"@arethetypeswrong/cli": "^0.13.5",
