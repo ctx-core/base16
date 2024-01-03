@@ -1,5 +1,11 @@
 # @ctx-core/base16
 
+## 7.2.74
+
+### Patch Changes
+
+- ctx-core: ^5.11.0 -> ^5.12.0
+
 ## 7.2.73
 
 ### Patch Changes
