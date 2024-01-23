@@ -1,5 +1,12 @@
 # @ctx-core/base16
 
+## 7.2.108
+
+### Patch Changes
+
+- @arethetypeswrong/cli: ^0.13.5 -> ^0.13.6
+- ctx-core: ^5.26.0 -> ^5.27.0
+
 ## 7.2.107
 
 ### Patch Changes
