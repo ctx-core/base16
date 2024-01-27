@@ -1,5 +1,11 @@
 # @ctx-core/base16
 
+## 7.2.115
+
+### Patch Changes
+
+- ctx-core: ^5.31.1 -> ^5.31.2
+
 ## 7.2.114
 
 ### Patch Changes
