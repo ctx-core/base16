@@ -1,5 +1,12 @@
 # @ctx-core/base16
 
+## 7.2.132
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@6.0.0
+
 ## 7.2.131
 
 ### Patch Changes
