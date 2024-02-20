@@ -40,7 +40,6 @@
 		"ctx-core": "^6.4.3"
 	},
 	"devDependencies": {
-		"@arethetypeswrong/cli": "^0.13.10",
 		"c8": "^9.1.0",
 		"check-dts": "^0.7.2",
 		"tsx": "^4.7.1",
