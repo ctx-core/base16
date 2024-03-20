@@ -1,5 +1,13 @@
 # @ctx-core/base16
 
+## 7.2.158
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 7.2.157
 
 ### Patch Changes
